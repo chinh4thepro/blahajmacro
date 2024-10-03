@@ -1,0 +1,5 @@
+# KICad stuff
+*-backups
+*.lck
+*.round-tracks-config
+fp-info-cache
