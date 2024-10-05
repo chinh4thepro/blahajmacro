@@ -22,6 +22,9 @@ The design is planned to have with a black pcb, and either laser cut acrylic pie
 | M3 nut                                          | 4       |
 | M3 * 20 brass standoff                          | 4       |
 
-## Mentions:
+## Thanks:
 - Images:
   - blahaj outline by [Sheepy0125](https://github.com/sheepy0125)
+- Footprints:
+  - Great and extensive collection of kicad symbols and footprints by [Joe Scotto (ScottoKeebs)](https://github.com/joe-scotto/scottokeebs)
+- This amazing opportunity from Hackpad under Hack Club
