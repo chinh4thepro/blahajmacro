@@ -7,8 +7,8 @@ This board is mainly made for the purpose of having a couple of keybinds on each
 The design is planned to have with a black pcb, and either laser cut acrylic pieces and/or 3d printed pieces for the case connected by M3 screws and nuts.
 
 ## Pics:
-![front](https://github.com/chinh4thepro/blahajmacro/blob/main/pictures/front.png?raw=true)
-![back](https://github.com/chinh4thepro/blahajmacro/blob/main/pictures/back.png?raw=true)
+![front](https://github.com/chinh4thepro/blahajmacro/blob/master/pictures/front.png?raw=true)
+![back](https://github.com/chinh4thepro/blahajmacro/blob/master/pictures/back.png?raw=true)
 
 ## BOM:
 | Component                                       | Amount  |
